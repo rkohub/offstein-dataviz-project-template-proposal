@@ -2,17 +2,30 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The Data I propose to visualize is the food nutrient dataset from the FDC
 
+- Here is a link to the data
+  - https://fdc.nal.usda.gov/download-datasets
+
+- I had to purge many of the foods to fit the size
+  requirements of vizhub, I might try and refactor the data, to only contain key nutrients to add all the food samples back in
+
+- This contains a food and then a list of its nutrients, The
+  name, and how much, in statistics, like median, max, min
+
+## Attributes
+
+- For each food there is a big list of nutrients and their quantities. The main ones Ill be looking at are
+ "Carbohydrate, by difference", "Protein", "Total lipid (fat)", "Water", "Calcium, Ca", "Potassium, K", "Energy", "Starch", "Lactose"
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Finding the primary nutrients within key foods
+ * Compare foods based on similarities in their nutrient quantities
+ * Find food alternatives across nutrient categories
+ * Take foods we know are healthy and discover what nutrients they contain
 
 ## Sketches
 
