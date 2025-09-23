@@ -56,7 +56,7 @@ In this itteration
 
 ![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image4.png)
 
-https://vizhub.com/rkohub/d955b4ef7727428baa77873f94f0170d
+- https://vizhub.com/rkohub/d955b4ef7727428baa77873f94f0170d
 
 I have used AI tools to add selectors for the axis and a third attribute controlling the size of the circles. As well as axis scale options and hover to see the name of the food. 
 
