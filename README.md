@@ -29,8 +29,8 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+[![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image.png)]
+
 
 
 ## Prototypes
@@ -40,6 +40,9 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
+
+https://vizhub.com/rkohub/d955b4ef7727428baa77873f94f0170d
+
 
 You can put images into here by pasting them into issues.
 
