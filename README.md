@@ -29,33 +29,46 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image.png)
+This one shows a potential way to represent connections between fruits. By showing connections as similarities and then having a key where you can select which attribute or nutrient is represented by the size of the data.
+
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image2.png)
+This visual shows other ways to potentially plot the data. To have two different attributes acros the X and Y axis and then Have friut images at the location of the fruits and these nutrients
+
+These graphs work to show the foods and the similarities they have based onc ertain nutrients
+
 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows connections and similarities between foods in certain nutrient groups. Here is a picture from the first prototype
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image3.png)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
+This has two nutirents on the axises and points for each of the foods based on their quantitiy of that nutrient
 
-You can put images into here by pasting them into issues.
+Here is a link to the viz
 
-You can make images into links like this:
+- https://vizhub.com/rkohub/b8fb2cbd2b034c1380c461c4c763d36b
 
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
+In this itteration
 
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image4.png)
 
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+- https://vizhub.com/rkohub/d955b4ef7727428baa77873f94f0170d
+
+I have used AI tools to add selectors for the axis and a third attribute controlling the size of the circles. As well as axis scale options and hover to see the name of the food. 
+
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I'm not sure if I selected the best nutirient groups to filter on. Lastly other visualization methods, like a force-directed layout for the nodes would be interesting but would convey less data.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+From here I hope to create better visuals for the food icons
+Clean up the data, to show more foods
+And also create different ways to display the food similarities
+
+I also could incorproate color to cover another attribute
