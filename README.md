@@ -60,6 +60,21 @@ In this itteration
 
 I have used AI tools to add selectors for the axis and a third attribute controlling the size of the circles. As well as axis scale options and hover to see the name of the food. 
 
+## Week 6 Progress
+- In week 6 I did some data cleaning/other polishing and turned some of my datapoints into images
+
+- First I took the massive 6414KB Json file of all the data, and used a python script to trim out only the most important food nutrients and all the unnecessary data from the file, and turn it into a 601KB file that can fit in vizhub
+- This allowed me to include all of the food data, and keep the file more organized, focused and lightweight
+- Then I made some small adjustments to the food nutrient options, based on the most common nutrients, added a default circle size option, and added values to the circles when I hover them
+- Lastly I used Wikipedia and creative commons to make a fetch request for images based on my foods
+- It would query wikipedia for an image, and if it returns one, then display it instead of the circle
+- You are able to see it works because clusters of related images are together on the scatterplot.
+
+- From here I want to polish and make the images more clear And normalize some of the data based on the food sizes
+
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image5.png)
+
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image6.png)
 
 ## Open Questions
 
@@ -67,8 +82,11 @@ I'm not sure if I selected the best nutirient groups to filter on. Lastly other 
 
 ## Milestones
 
-From here I hope to create better visuals for the food icons
-Clean up the data, to show more foods
-And also create different ways to display the food similarities
+- [x] From here I hope to create better visuals for the food icons
+- [x] Clean up the data, to show more foods
 
-I also could incorproate color to cover another attribute
+- [ ] And also create different ways to display the food similarities
+- [ ] I also could incorproate color to cover another attribute
+
+- [ ] From here I want to polish and make the images more clear
+- [ ] And normalize some of the data based on the food sizes
