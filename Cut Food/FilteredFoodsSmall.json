@@ -1,0 +1,161 @@
+{
+  "FoundationFoods": [
+    {
+      "description": "Hummus, commercial",
+      "foodNutrients": [
+        {
+          "nutrient": {
+            "name": "Protein",
+            "unitName": "g"
+          },
+          "amount": 7.35
+        },
+        {
+          "nutrient": {
+            "name": "Iron, Fe",
+            "unitName": "mg"
+          },
+          "amount": 2.41
+        },
+        {
+          "nutrient": {
+            "name": "Magnesium, Mg",
+            "unitName": "mg"
+          },
+          "amount": 71.1
+        },
+        {
+          "nutrient": {
+            "name": "Phosphorus, P",
+            "unitName": "mg"
+          },
+          "amount": 166
+        },
+        {
+          "nutrient": {
+            "name": "Sodium, Na",
+            "unitName": "mg"
+          },
+          "amount": 438
+        },
+        {
+          "nutrient": {
+            "name": "Vitamin B-6",
+            "unitName": "mg"
+          },
+          "amount": 0.143
+        },
+        {
+          "nutrient": {
+            "name": "Total lipid (fat)",
+            "unitName": "g"
+          },
+          "amount": 17.1
+        },
+        {
+          "nutrient": {
+            "name": "Carbohydrate, by difference",
+            "unitName": "g"
+          },
+          "amount": 14.9
+        },
+        {
+          "nutrient": {
+            "name": "Water",
+            "unitName": "g"
+          },
+          "amount": 58.7
+        },
+        {
+          "nutrient": {
+            "name": "Calcium, Ca",
+            "unitName": "mg"
+          },
+          "amount": 41.0
+        },
+        {
+          "nutrient": {
+            "name": "Potassium, K",
+            "unitName": "mg"
+          },
+          "amount": 289
+        },
+        {
+          "nutrient": {
+            "name": "Zinc, Zn",
+            "unitName": "mg"
+          },
+          "amount": 1.38
+        }
+      ]
+    },
+    {
+      "description": "Juice, tart cherry, from concentrate, shelf-stable",
+      "foodNutrients": [
+        {
+          "nutrient": {
+            "name": "Iron, Fe",
+            "unitName": "mg"
+          },
+          "amount": 0.203
+        },
+        {
+          "nutrient": {
+            "name": "Magnesium, Mg",
+            "unitName": "mg"
+          },
+          "amount": 12.1
+        },
+        {
+          "nutrient": {
+            "name": "Phosphorus, P",
+            "unitName": "mg"
+          },
+          "amount": 16.1
+        },
+        {
+          "nutrient": {
+            "name": "Potassium, K",
+            "unitName": "mg"
+          },
+          "amount": 170
+        },
+        {
+          "nutrient": {
+            "name": "Sodium, Na",
+            "unitName": "mg"
+          },
+          "amount": 1.36
+        },
+        {
+          "nutrient": {
+            "name": "Zinc, Zn",
+            "unitName": "mg"
+          },
+          "amount": 0.033
+        },
+        {
+          "nutrient": {
+            "name": "Water",
+            "unitName": "g"
+          },
+          "amount": 85.7
+        },
+        {
+          "nutrient": {
+            "name": "Calcium, Ca",
+            "unitName": "mg"
+          },
+          "amount": 16.2
+        },
+        {
+          "nutrient": {
+            "name": "Protein",
+            "unitName": "g"
+          },
+          "amount": 0.147
+        }
+      ]
+    }
+  ]
+}
