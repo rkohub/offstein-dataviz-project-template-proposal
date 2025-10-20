@@ -76,6 +76,13 @@ I have used AI tools to add selectors for the axis and a third attribute control
 
 ![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image6.png)
 
+## Week 8 Summary
+
+- This week I added on some categorical variables with some color coding for different food groups. 
+- I did a different round of cleaning on the data to make sure that it only have the required data as well as adding the categorical food group attribute
+I also added more toggles to toggle a key/legend and to toggle between showing all the dots, and showing the images
+
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image7.png)
 ## Open Questions
 
 I'm not sure if I selected the best nutirient groups to filter on. Lastly other visualization methods, like a force-directed layout for the nodes would be interesting but would convey less data.
