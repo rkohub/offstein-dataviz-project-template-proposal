@@ -87,6 +87,18 @@ I also added more toggles to toggle a key/legend and to toggle between showing a
 
 I'm not sure if I selected the best nutirient groups to filter on. Lastly other visualization methods, like a force-directed layout for the nodes would be interesting but would convey less data.
 
+## Week 9 Summary
+
+- This week I added Things relating to interaction. 
+- I already had some hoverable information about each food, so I expanded upon that and added a little growing indicator
+- I also added hovering of the categories similar to the demo videos. 
+- Next I made the transitions betweens states animated for some added flare
+- And lastly I did some small quality of life changes with scaling and the images. 
+
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image8.png)
+
+![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image9.png)
+
 ## Milestones
 
 - [x] From here I hope to create better visuals for the food icons
