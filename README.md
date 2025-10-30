@@ -105,7 +105,7 @@ I'm not sure if I selected the best nutirient groups to filter on. Lastly other 
 - [x] Clean up the data, to show more foods
 
 - [ ] And also create different ways to display the food similarities
-- [ ] I also could incorproate color to cover another attribute
+- [x] I also could incorproate color to cover another attribute
 
-- [ ] From here I want to polish and make the images more clear
+- [x] From here I want to polish and make the images more clear
 - [ ] And normalize some of the data based on the food sizes
