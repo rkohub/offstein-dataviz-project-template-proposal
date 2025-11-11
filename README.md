@@ -80,7 +80,7 @@ The following tasks and questions will drive the visualization and interaction d
 - Here is a link to the viz
   - https://vizhub.com/rkohub/b8fb2cbd2b034c1380c461c4c763d36b
 
-# Next Itteration (Sizing) 
+## Next Itteration (Sizing) 
 
 - In this itteration I added more control to the users choices by providing a selector along the top where you can choose between the different food attributes to be represented on both of the axis.
 - I also added a 3rd attribute which can be plotted and represented by the size of the circles on the plot
@@ -107,6 +107,7 @@ The following tasks and questions will drive the visualization and interaction d
 - From here I want to polish and make the images more clear And normalize some of the data based on the food sizes
 
 - Here are some of the images of that progress
+
 ![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image5.png)
 
 ![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image6.png)
@@ -121,6 +122,7 @@ The following tasks and questions will drive the visualization and interaction d
 - I also added more toggles to toggle a key/legend and to toggle between showing all the dots, and showing the images
 
 - Here are some of the images of that progress
+
 ![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image7.png)
 
 - And a link to the viz
@@ -135,6 +137,7 @@ The following tasks and questions will drive the visualization and interaction d
 - And lastly I did some small quality of life changes with scaling and the images. 
 
 - Here are some of the images of that progress
+
 ![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image8.png)
 
 ![image](https://github.com/rkohub/offstein-dataviz-project-template-proposal/blob/master/image9.png)
