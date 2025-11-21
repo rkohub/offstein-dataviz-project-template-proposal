@@ -144,3 +144,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 - And a link to the viz
   - https://vizhub.com/rkohub/406a889450184d93a2352415227b8c47
+
+## Peer feedback
+
+- This week I made final polishes to the project based on my feedback I received.
+- The main points were cleaning up elements such as tool tips and text clipping or not overflowing right,
+- As well as controls such as my legend and its properties when other elements are selected, as well as being on by default
+
+- And a link to the viz
+  - https://vizhub.com/rkohub/406a889450184d93a2352415227b8c47
