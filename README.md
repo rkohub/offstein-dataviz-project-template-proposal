@@ -152,4 +152,4 @@ The following tasks and questions will drive the visualization and interaction d
 - As well as controls such as my legend and its properties when other elements are selected, as well as being on by default
 
 - And a link to the viz
-  - https://vizhub.com/rkohub/406a889450184d93a2352415227b8c47
+  - https://vizhub.com/rkohub/1ca82eab7a994c0fae16fce154140cb0
